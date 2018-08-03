@@ -1,0 +1,7 @@
+.cal-year-box [class*="span"], .cal-month-box [class*="cal-cell"] {min-height:60px;}
+.cal-month-day {height: 60px;}
+span[data-cal-date] {margin-right: 1px; margin-top: 1px; font-size: 1em;}
+.cal-month-box .cal-day-today span[data-cal-date] {font-size: 1em;}
+.event {border: none;}
+#cal-slide-content {background: black;}
+#cal-slide-content:hover {background: black;}

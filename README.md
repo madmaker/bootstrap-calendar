@@ -1,3 +1,5 @@
+Добавлен файл css/small.css
+
 Bootstrap Calendar
 ===
 
